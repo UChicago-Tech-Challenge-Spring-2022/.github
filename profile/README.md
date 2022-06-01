@@ -1,12 +1,7 @@
-## Hi there 👋
+## STATUS
+UChicago CS Course Advising website is a prototype developed by Todd Tan, Yilan Liu, Patricia Zhou, Mike Wu, and Yuanyi Zhang for the 2022 UChicago Tech Community Challenge.
 
-<!--
+It's purpose is threefold: to offer 1) guidance to UChicago students about their course selections; 2) a service that could let students plan their courses with a balanced schedule; and 3)a service that could help students get into full classes.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ 
+This project is closed. Should there be further updates will depend on each group member.
