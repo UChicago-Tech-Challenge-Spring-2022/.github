@@ -3,5 +3,3 @@ UChicago CS Course Advising website is a prototype developed by Todd Tan, Yilan 
 
 It's purpose is threefold: 1) to offer a guidance to UChicago undergraduates about their course selections; 2) to establish a platform where students could plan their courses with a balanced schedule; and 3) to provide a service that could help students get into full classes.
 
- 
-This project is closed. Should there be further updates will depend on each group member.
